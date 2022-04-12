@@ -1,11 +1,3 @@
-#Lab:4
-#Team:3
-#Team Members: 
-# Member-1: Denish Shrestha 33.33% contribution
-# Member-2: Benoy Thomas    33.33% contribution
-# Member-3: Elly Pham       33.33% contribution
-
-#Submission Date: 02/27/2022
 
 #Problem Description: Predicting whether the text is ham or spam
 #Inputs:              SMS spam analysis 
