@@ -1,12 +1,4 @@
-#Lab:7 Linear Regression
-#Team:3
-#Team Members: 
-# Member-1: Denish Shrestha 33.33% contribution
-# Member-2: Elly Pham       33.33% contribution
-# Member-3: Benoy Thomas    33.33% contribution
-
-#Submission Date: 03/20/2022
-
+#Linear Regression
 #Problem Description: Predicting medical expenses using linear regression
 #Inputs:              Hypothetical medical expenses for patients in the US
 #Output file:         Display values on the Console (R file)
