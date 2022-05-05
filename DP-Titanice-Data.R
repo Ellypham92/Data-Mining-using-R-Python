@@ -1,4 +1,3 @@
-#Home Work:3
 #Problem Description: Write an R script to: 
 # Read-in the titanic data (titanic_traning.csv).  
 # Identify the severity of the missing value problem and data inconsistency problem. Specifically, generate
